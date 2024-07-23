@@ -5,4 +5,5 @@
   height: 12px;
   margin: .5em auto 0;
   background: url(#{$asset_url}/images/divider.svg) no-repeat top center;
+  filter: brightness(0) saturate(100%) invert(99%) sepia(9%) saturate(189%) hue-rotate(226deg) brightness(114%) contrast(100%);
 }
